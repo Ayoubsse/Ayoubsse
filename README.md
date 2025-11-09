@@ -31,7 +31,7 @@
 
 ### 🧠 What I'm working on
 - A portfolio website showcasing my best projects  
-- Small interactive apps using **vanilla JS** and **React**
+- Small interactive apps using **vanilla JS** and **React** (not uploaded yet)
 - Improving accessibility and performance in my designs
 
 ---
